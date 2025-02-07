@@ -1,7 +1,7 @@
 import requests
 
 # База
-trainer_token = "21ed94e42624da0892e589a1a9fb7f65"
+trainer_token = "USER_TOKEN"
 host = "https://api.pokemonbattle.ru/v2"
 
 # Хэдеры
